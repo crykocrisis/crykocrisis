@@ -7,8 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/crykocrisis/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/crykocrisis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/crykocrisis/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/crykocrisis/azure-network-protocols)
+  - [Activities between two Azure Machines](https://github.com/crykocrisis/azure-tasks)
 
 <h2>🤳Connect with me:</h2>
 
