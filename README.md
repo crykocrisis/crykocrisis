@@ -17,4 +17,4 @@
 
 [facebook]: https://www.facebook.com/crykocrisis/
 [instagram]: http://instagram.com/crykocrisis/
-[linkedin]: https://linkedin.com/in/Crystal
+[linkedin]: https://www.linkedin.com/in/crystal-aguilera-588497370/
