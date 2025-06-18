@@ -1,11 +1,11 @@
-<h1>Hi, I'm Crystal, an <a href="https://linkedin.com/in/Crystal">IT Professional</a>☺</h1>
+<h1>Hi, I'm Crystal, an <a href="https://linkedin.com/in/Crystal">IT Beginner</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/crykocrisis/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/crykocrisis/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/crykocrisis/ticket-lifecycle)
+  - [osTicket: Installation Requirements](https://github.com/crykocrisis/osticket-prereqs)
+  - [osTicket: Configuration After Installation](https://github.com/crykocrisis/post-install-config)
+
 - <b>Microsoft Azure</b>
   - [Activities between two Azure Machines](https://github.com/crykocrisis/azure-tasks)
 
@@ -13,7 +13,8 @@
 
 [<img align="left" alt="Crystal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Crystal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Crystal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
-[facebook]: https://twitter.com/Crystal
-[instagram]: https://www.instagram.com/Crystal
+[facebook]: https://www.facebook.com/crykocrisis/
+[instagram]: http://instagram.com/crykocrisis/
 [linkedin]: https://linkedin.com/in/Crystal
