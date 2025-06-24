@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation Requirements](https://github.com/crykocrisis/osticket-prereqs)
-  - [osTicket: Configuration After Installation](https://github.com/crykocrisis/post-install-config)
+  - [osTicket: Installation Requirements](https://github.com/crykocrisis/inst-req)
+  - [osTicket: Configuration After Installation](https://github.com/crykocrisis/config-aft-inst)
 
 - <b>Microsoft Azure</b>
   - [Activities between two Azure Machines](https://github.com/crykocrisis/azure-tasks)
